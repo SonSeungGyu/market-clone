@@ -1,6 +1,7 @@
 main {
   padding: 30px 20px 100px 20px;
 }
+
 .item-list {
   display: flex;
   justify-content: flex-start;
